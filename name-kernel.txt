@@ -1,14 +1,14 @@
 #INFORMATION KERNEL
 link_kernel=https://github.com/Rem01Gaming/liquid_kernel_realme_even
-name_zip=Liquid-318-slmk
+name_zip=Liquid-318
 local_version=-liquidfy
 kbuild_user=ismasrull
-kbuild_host=memek
+kbuild_host=ismasrull
 device_name=<b>realme C25/C25s</b> (even)
-vendor_name=RUI2
+vendor_name=s
 #OPTION FOR COMPILER
-defconfig_name=even_slmk_defconfig
-  #just for incase for slmk
+defconfig_name=even_defconfig
+  #just for incase fo
 
 
 #INFORMATION LINK COMPILER
