@@ -1,6 +1,6 @@
 #INFORMATION KERNEL
 link_kernel=https://github.com/Rem01Gaming/liquid_kernel_realme_even
-name_zip=Liquid-318
+name_zip=Liquid-memek
 local_version=-liquidfy
 kbuild_user=ismasrull
 kbuild_host=ismasrull
@@ -8,8 +8,6 @@ device_name=<b>realme C25/C25s</b> (even)
 vendor_name=s
 #OPTION FOR COMPILER
 defconfig_name=even_defconfig
-  
-
 
 #INFORMATION LINK COMPILER
 link_gcc_aarch64=https://github.com/EternalX-project/aarch64-linux-gnu.git
