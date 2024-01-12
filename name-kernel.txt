@@ -8,7 +8,7 @@ device_name=<b>realme C25/C25s</b> (even)
 vendor_name=s
 #OPTION FOR COMPILER
 defconfig_name=even_defconfig
-  #just for incase fo
+  
 
 
 #INFORMATION LINK COMPILER
