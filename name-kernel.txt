@@ -10,6 +10,9 @@ vendor_name=s
 defconfig_name=even_defconfig
 
 
+
+
+
 #INFORMATION LINK COMPILER
 link_gcc_aarch64=https://github.com/EternalX-project/aarch64-linux-gnu.git
 link_gcc_arm=https://github.com/EternalX-project/arm-linux-gnueabi.git
