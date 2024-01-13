@@ -5,7 +5,7 @@ local_version=-liquidfy
 kbuild_user=ismasrull
 kbuild_host=ismasrull
 device_name=<b>realme C25/C25s</b> (even)
-vendor_name=evens
+vendor_name=even
 #OPTION FOR COMPILER
 defconfig_name=even_defconfig
 
