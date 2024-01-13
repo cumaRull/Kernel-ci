@@ -3,7 +3,7 @@ link_kernel=https://github.com/Rem01Gaming/liquid_kernel_realme_even
 name_zip=Liquid
 local_version=-liquidfys
 kbuild_user=ismasrull
-kbuild_host=ismasrull
+kbuild_host=ismasrulls
 device_name=<b>realme C25/C25s</b> (even)
 vendor_name=even
 #OPTION FOR COMPILER
